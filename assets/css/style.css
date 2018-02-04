@@ -1,0 +1,24 @@
+
+body{
+    background-color: green; 
+}
+
+#matrix{
+    width: 500px;
+    height: 500px;
+    margin: 5px; 
+    border-style: dashed; 
+    border-width: 5px; 
+    
+}
+
+.container{
+    font-family: 'Lora', serif; 
+    font-size: 50px; 
+}
+
+#boxright{
+
+    margin-top: 12px; 
+    border-style:dashed;
+}
